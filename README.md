@@ -1,1 +1,1 @@
-R codes for practics
+R codes for practice
