@@ -1,2 +1,1 @@
-# visualR
-R codes for visualization
+R codes for practics
